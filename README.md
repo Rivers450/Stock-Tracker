@@ -1,3 +1,4 @@
 # Stock-Tracker
 
-This repository will be updated everytime I make a change to the files. I am still currently working on this personal project, I plan to automate the stock market tracker through excel and then display the different graphs and tables on Power BI.
+Stock Market through excel is now automated, I used queries to track and refresh the data every 5-10 minutes. 
+I am working on implementing this through PowerBI and displaying graphs this way
